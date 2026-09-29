@@ -6,7 +6,7 @@ A polished, interactive 3D space rover simulation built with Three.js that lets 
 ---------------------
 *   **Lead Developer & Inventor:** Tarikur Rahman
 *   **GitHub:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
-*   **Portfolio:** [yourtarikur.netlify.app](https://yourtarikur.netlify.app)
+*   **Portfolio:** [yourtarikur.vercel.app](https://yourtarikur.vercel.app)
 
 🚀 Features
 ----------
